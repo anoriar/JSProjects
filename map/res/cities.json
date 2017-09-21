@@ -1,0 +1,52 @@
+{
+  "cities":[
+    {
+      "id":"murmansk",
+      "cityName": "Мурманск",
+      "x":203,
+      "y":201
+
+    },
+
+    {
+      "id":"moscow",
+      "cityName": "Москва",
+
+      "x":129,
+      "y":300
+
+
+    },
+
+    {
+      "id":"gatchiha",
+      "cityName": "Гатчина",
+
+      "x":100,
+      "y":230
+
+
+    },
+
+    {
+      "id":"saintpetersburg",
+      "cityName": "Санкт-Петербург",
+
+      "x":109,
+      "y":225
+
+
+    },
+
+    {
+      "id":"arseniev",
+      "cityName": "Арсеньев",
+
+      "x":740,
+      "y":434
+
+
+    }
+
+  ]
+}

@@ -1,0 +1,181 @@
+{
+	"imgList": [
+		{
+			"x":76,
+			"y":200,
+			"str":"materials/cities/armalit/01.png"
+		},
+		{
+			"x":100,
+			"y":200,
+			"str":"materials/cities/armalit/02.png"
+		},
+		{
+			"x":77,
+			"y":229,
+			"str":"materials/cities/armalit/03.png"
+		},
+		{
+			"x":65,
+			"y":244,
+			"str":"materials/cities/armalit/04.png"
+		},
+		{
+			"x":68,
+			"y":273,
+			"str":"materials/cities/armalit/05.png"
+		},
+		{
+			"x":148,
+			"y":228,
+			"str":"materials/cities/armalit/06.png"
+		},
+		{
+			"x":171,
+			"y":248,
+			"str":"materials/cities/armalit/07.png"
+		},
+		{
+			"x":166,
+			"y":276,
+			"str":"materials/cities/armalit/08.png"
+		},
+		{
+			"x":188,
+			"y":269,
+			"str":"materials/cities/armalit/09.png"
+		},
+
+
+		{
+			"x":190,
+			"y":282,
+			"str":"materials/cities/skbk/01.png"
+		},
+		{
+			"x":126,
+			"y":260,
+			"str":"materials/cities/skbk/02.png"
+		},
+		{
+			"x":123,
+			"y":288,
+			"str":"materials/cities/skbk/03.png"
+		},
+		{
+			"x":82,
+			"y":300,
+			"str":"materials/cities/skbk/04.png"
+		},
+		{
+			"x":93,
+			"y":322,
+			"str":"materials/cities/skbk/05.png"
+		},
+		{
+			"x":119,
+			"y":311,
+			"str":"materials/cities/skbk/06.png"
+		},
+
+
+		{
+			"x":150,
+			"y":293,
+			"str":"materials/cities/burevestnik/01.png"
+		},
+		{
+			"x":98,
+			"y":348,
+			"str":"materials/cities/burevestnik/02.png"
+		},
+		{
+			"x":131,
+			"y":331,
+			"str":"materials/cities/burevestnik/03.png"
+		},
+
+		{
+			"x":175,
+			"y":331,
+			"str":"materials/cities/burevestnik/04.png"
+		},
+		{
+			"x":157,
+			"y":330,
+			"str":"materials/cities/burevestnik/05.png"
+		},
+
+		{
+			"x":153,
+			"y":354,
+			"str":"materials/cities/burevestnik/06.png"
+		},
+
+
+
+
+		{
+			"x":173,
+			"y":144,
+			"str":"MATERIALS/cities/askold/01.png"
+		},
+
+		{
+			"x":240,
+			"y":188,
+			"str":"MATERIALS/cities/askold/02.png"
+		},
+
+		{
+			"x":170,
+			"y":218,
+			"str":"MATERIALS/cities/askold/03.png"
+		},
+
+		{
+			"x":229,
+			"y":287,
+			"str":"MATERIALS/cities/askold/04.png"
+		},
+
+		{
+			"x":734,
+			"y":397,
+			"str":"MATERIALS/cities/askold/05.png"
+		},
+
+		{
+			"x":705,
+			"y":451,
+			"str":"MATERIALS/cities/askold/06.png"
+		},
+
+		{
+			"x":234,
+			"y":252,
+			"str":"MATERIALS/cities/askold/07.png"
+		},
+
+		{
+			"x":685,
+			"y":407,
+			"str":"MATERIALS/cities/askold/08.png"
+		},
+
+		{
+			"x":675,
+			"y":461,
+			"str":"MATERIALS/cities/askold/09.png"
+		},
+
+		{
+			"x":644,
+			"y":440,
+			"str":"MATERIALS/cities/askold/10.png"
+		}
+
+
+	]
+
+}

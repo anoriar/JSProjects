@@ -1,0 +1,102 @@
+#ui{
+	position: absolute;
+	width:200px;
+	border:5px solid red;
+	background: black;
+	height: 800px;
+	left:200px;
+}
+
+#score{
+	position: absolute;
+	color:#FFF;
+	top:50px;
+	left:20px;
+	text-align:center;
+}
+
+#state{
+	position: absolute;
+	color:#FFF;
+	top:90px;
+	left:20px;
+	text-align:center;
+}
+
+
+
+#game{
+	border:5px solid red;
+	position: absolute;
+	width:400px;
+	height:800px;
+	left:400px;
+	background:#000;
+}
+
+#fieldCanvas{
+	position: absolute;
+	width:400px;
+	height:800px;
+
+	z-index: 0;
+}
+
+#shapeCanvas{
+	position: absolute;
+	width:400px;
+	height:800px;
+}
+
+#pauseButton{
+	position: absolute;
+	bottom:50px;
+	left:50px;
+}
+
+#playButton{
+	position: absolute;
+	bottom:50px;
+	left:100px;
+}
+
+#game-over {
+	text-align:center;
+	width: 400px;
+	color:red;
+	height: 800px;
+	position: absolute;
+	display: none;
+	z-index: 1;
+}
+
+
+#play-again{
+	position: absolute;
+	width:100px;
+	right:150px;
+	left:150px;
+}
+
+a.play{
+	position: absolute;
+	bottom: 50px;
+	width: 0;
+	height: 0;
+	left:100px;
+	color:#FFF;
+	border-top: 10px solid transparent;
+	border-left: 12px solid #FFF;
+	border-bottom: 8px solid transparent;
+}
+
+a.pause {
+	position: absolute;
+	color:#FFF;
+	left:100px;
+	width: 4px;
+	height: 16px;
+	bottom: 50px;
+	border-right: 4px solid #FFF;
+	border-left: 4px solid #FFF;
+}

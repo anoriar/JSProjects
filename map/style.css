@@ -1,0 +1,28 @@
+
+.map{
+	position: relative;
+	margin: auto;
+}
+
+
+.markers {
+	position: absolute;
+	background: #ffff00;
+	border-radius: 50%;
+	height: 8px;
+	width: 8px;
+	margin: 0;
+	display:none;
+}
+
+.markers:hover {
+	cursor: pointer;
+}
+
+.imgTooltip {
+	position: absolute;
+}
+
+.imgTooltip:hover{
+	cursor: pointer;
+}

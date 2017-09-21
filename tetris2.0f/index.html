@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
+<script src="lib/jquery-3.1.1.min.js"></script>
+<link rel="stylesheet" href="lib/bootstrap/bootstrap-grid-3.3.2.min.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<script src="tetris.js"></script>
+<script src="main.js"></script>
+<script src="figure.js"></script>
+
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<div id="ui">
+		<div id="score">
+			Score
+			<output id="scoreResult" ></output>
+		</div>
+		<div id="state">
+			State
+			<output id="stateVal" ></output>
+		</div>
+		<a id="button" title="button" class="pause"></a>
+	</div>
+	<div id="game">
+		<div id="game-over">
+			<h1>GAME OVER</h1>
+			<input onclick="startGame();" type="button" id="play-again" value="Play Again" />
+		</div>
+	</div>
+
+</body>
+</html>
